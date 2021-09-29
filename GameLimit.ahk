@@ -4,7 +4,6 @@ SetWorkingDir E:\ahkReference
 ; SCRIPT CONFIGURATION VARIABLES: EDIT THESE TO CUSTOMIZE THIS SCRIPT.########################################
 timePerDay := 120 ;minutes
 TargetProcess = destiny2.exe
-ProcessName = destiny2
 
 
 ; initialization ----------------------------
