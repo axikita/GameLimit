@@ -51,6 +51,15 @@ Change `destiny2.exe` to whatever process name you want to limit. If you want to
 
 This script is designed as a personal productivity tool. I want to limit my own video game usage. As such, I haven't focused on security or obfuscation- this is not written to hide the functionality from a hostile actor, eg, a computer-savvy child who might want to kill the script. It could probably be modified to do so.
 
+## Todo
+
+- make process check array based, not a single entry
+- fix the popup to properly display remaining time, and probably day of week instead of numbers
+- configuration variables for GUI position
+- simplify and refine the "process closed, here's your session logs" dialogue box
+- make array-check remove zero-length entries
+
+
 
 
 
