@@ -46,6 +46,7 @@ TargetProcesses := ["destiny2.exe"]
 ResetPolicy := 3 
 DailyReset := 0 
 dislpayGUI = 1 
+overtimeAllowed := 1
 ```
 
 **timePerDay:** Change `120` to whatever you want the daily time budget to be, in minutes. Note that this will be converted to a weekly budget, so 120 minutes is 840 minutes per week.
